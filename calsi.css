@@ -1,0 +1,28 @@
+body {
+    margin: 300px;
+    font-family: Arial, sans-serif;
+}
+.calsiname{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.calculator {
+    width: 215px;
+    margin: 0 auto;
+    border: 1px solid;
+    color: red;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px; 
+}
+.button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border: 1px solid;
+    color: rgb(17, 43, 16);
+    background-color: #b8a4a4;
+    cursor: pointer;
+    border-radius: 30px;
+}
